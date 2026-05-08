@@ -8,7 +8,7 @@
 
 Learning purpouses.
 
-This wil be done from absolute 0, with only prior experience from reviewing and auditing the Yield Basis protocol, by Curve.
+This will be done from absolute 0, with only prior experience from reviewing and auditing the Yield Basis protocol, by Curve.
 
 # Disclaimer
 
